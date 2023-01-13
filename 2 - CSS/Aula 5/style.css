@@ -1,0 +1,30 @@
+body{
+    background: rgb(209, 196, 196) /* Cor do plano de fundo */
+}
+
+P{
+    color:rgb(70, 54, 35);
+}
+.foto-principal {
+    border: 5px solid black;
+    border-radius: 20px; /* Arredondamento das bordas */
+    margin: 20px 20px 20px 150px;
+
+
+
+
+
+    /*
+    margin-top: 20px; " Magem entre o topo do site e da imagem "
+    margin-right: 20px " Magem entre o lado direito do site e da imagem "
+    margin-bottom: 20px; " Magem entre a parte de baixo do site e da imagem "
+    margin-left: 500px; " Magem entre o lado esquerdo do site e da imagem "
+    */
+
+    /* 
+        Exemplo da bordas
+    border-width: 5px; "Largura"
+    border-style: solid; "Tipo "
+    border-color: black; "Cor
+    */
+}

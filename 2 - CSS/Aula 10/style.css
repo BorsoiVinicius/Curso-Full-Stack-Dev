@@ -1,0 +1,53 @@
+body{
+    background: rgb(209, 196, 196); /* Cor do plano de fundo */
+    font-family: Arial, Helvetica,'Corrier New' sans-serif;
+    /*
+    font-family Muda o formato do texto
+     */   
+}
+
+.centro{
+    width: 860px;
+    margin: 0 auto;
+}
+
+.foto-c{
+    margin: 0 auto;
+}
+
+h1{
+    margin-bottom: 0;
+    letter-spacing: -1;
+}
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgba(50, 111, 161, 0.651);
+    font-weight: 100;
+    letter-spacing: -1;
+}
+
+P{
+    color:rgb(70, 54, 35);
+}
+.foto-principal {
+    width: 600px;
+    border: 5px solid rgb(114 93 93);
+    border-radius: 20px; /* Arredondamento das bordas */
+    margin: 20px;
+    padding: -1px; /* Margem dentro da imagem */ 
+    box-shadow: 0px 0px 0px rgb(0, 0, 0);
+    /*
+    margin-top: 20px; " Magem entre o topo do site e da imagem "
+    margin-right: 20px " Magem entre o lado direito do site e da imagem "
+    margin-bottom: 20px; " Magem entre a parte de baixo do site e da imagem "
+    margin-left: 500px; " Magem entre o lado esquerdo do site e da imagem "
+    */
+
+    /* 
+        Exemplo da bordas
+    border-width: 5px; "Largura"
+    border-style: solid; "Tipo "
+    border-color: black; "Cor
+    */
+}

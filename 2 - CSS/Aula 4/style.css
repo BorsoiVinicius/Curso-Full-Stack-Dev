@@ -1,0 +1,17 @@
+body{
+    background: rgb(209, 196, 196) /* Cor do plano de fundo */
+}
+
+P{
+    color:rgb(70, 54, 35);
+}
+.foto-principal {
+    border: 5px solid black;
+    border-radius: 20px; /* Arredondamento das bordas */
+    /* 
+        Exemplo da bordas
+    border-width: 5px; "Largura"
+    border-style: solid; "Tipo "
+    border-color: black; "Cor
+    */
+}

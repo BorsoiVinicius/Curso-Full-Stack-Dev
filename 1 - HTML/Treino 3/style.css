@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100%;
+}
+
+body{
+    background-color: wheat;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+.Centro{
+    width: 800PX;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.profille{
+    text-indent: 0;
+    font-style: italic;
+    font-weight: 200;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 0;
+    text-align: center;
+
+}
+.social-links{
+    text-decoration: none;
+}
+.social-icons{
+    width:35px;
+    height: auto;
+}
+.foto-principal{
+    width: 150px;
+    border-radius: 100%;
+    border: 3px solid black;
+    box-shadow: 0px 0px 20px;
+}
+
+
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-indent: 0px;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.Acad{
+   margin-bottom: 0;
+}
+
+.Machado{
+    margin-bottom: 0;
+}
+h1{
+    margin-bottom: 0;
+}
+h2{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3{
+    margin-bottom: 0;
+}
+
+ul{
+    margin-top: 0;
+    list-style: none;
+}
